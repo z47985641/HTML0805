@@ -1,0 +1,39 @@
+﻿#colH1 {
+    color: aqua;
+}
+.st1 {
+    color: green;
+    text-decoration: underline;
+}
+
+h2.st2 {
+    color: purple;
+    font-style: italic;
+}
+
+.col2 {
+    color: brown;
+}
+
+.col1 {
+    color: gray;
+}
+
+.size1 {
+    font-size: 2em;
+}
+
+.sty1 {
+    font-style: italic;
+}
+
+.trans1 {
+    text-transform: capitalize;
+}
+p {
+    color:blue;
+    text-decoration:underline;
+}
+.colH3 {
+    color:lightblue;
+}
